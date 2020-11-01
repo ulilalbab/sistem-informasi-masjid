@@ -6,6 +6,7 @@ Seringkali kita temui ketiadaan informasi mengenai demografi penduduk di tingkat
 
 ##Solusi
 Menggunakan sistem terintegrasi yang memungkinkan pihak terkait mendapatkan data yang akurat sehingga memungkinkan untuk dikembangkan lebih lanjut.
+Sistem ini akan berbasis web dimana memiliki kelebihan untuk diakses dari manapun dan tidak membutuhkan instalasi tambahan. 
 
 Mitigasi:
 1. Pengelolaan DAta
