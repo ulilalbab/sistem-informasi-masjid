@@ -11,3 +11,5 @@ Sistem ini akan berbasis web dimana memiliki kelebihan untuk diakses dari manapu
 Mitigasi:
 1. Pengelolaan DAta
 2. Keamanan Data
+
+Diharapkan dengan adanya sistem informasi ini akan memudahkan untuk mengelola data penduduk
